@@ -1,0 +1,57 @@
+name: Refresh README assets
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Fetch stats card
+        run: curl -sL --retry 3 --max-time 25 -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=Param96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"
+
+      - name: Fetch streak card
+        run: curl -sL --retry 3 --max-time 25 -o assets/streak.svg "https://nirzak-streak-stats.vercel.app/?user=Param96&theme=tokyonight&hide_border=true"
+
+      - name: Fetch top languages card
+        run: curl -sL --retry 3 --max-time 25 -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Param96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+
+      - name: Fetch activity graph
+        run: curl -sL --retry 3 --max-time 25 -o assets/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=Param96&theme=tokyo-night&hide_border=true&area=true"
+
+      - name: Fetch PR/contribution summary card
+        run: curl -sL --retry 3 --max-time 25 -o assets/pr-stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Param96&theme=github_dark"
+
+      - name: Fetch profile details card
+        run: curl -sL --retry 3 --max-time 25 -o assets/profile-details.svg "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Param96&theme=github_dark"
+
+      - name: Fetch dev quote card
+        run: curl -sL --retry 3 --max-time 25 -o assets/quote.svg "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+
+      - name: Fetch top contributed repo card
+        run: curl -sL --retry 3 --max-time 25 -o assets/top-contributed-repo.svg "https://github-contributor-stats.vercel.app/api?username=Param96&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+
+      - name: Fetch trophies card
+        run: curl -sL --retry 3 --max-time 25 -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=Param96&theme=tokyonight&no-frame=true&margin-w=4&row=1"
+
+      - name: Drop any empty/failed downloads
+        run: find assets -maxdepth 1 -name "*.svg" -size -200c -delete
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: refresh README stat assets"
+          git push
