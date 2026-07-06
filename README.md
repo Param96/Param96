@@ -214,10 +214,10 @@ Completed all three courses covering supervised learning (linear regression, log
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Param96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Param96&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="./assets/stats.svg"/>
+<img width="49%" src="./assets/streak.svg"/>
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param96&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="65%" src="./assets/top-langs.svg"/>
 
 </div>
 
@@ -225,30 +225,25 @@ Completed all three courses covering supervised learning (linear regression, log
 
 ### 📈 Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Param96&theme=tokyo-night&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Param96&theme=minimal&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Param96&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</picture>
+<img src="./assets/activity-graph.svg" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### 🔀 Pull Requests & Issues
+### 🔀 Pull Request & Contribution Summary
 
-<table>
-<tr>
-<td align="center" width="33%"><img src="https://vn7n24fzkq02.vercel.app/api/cards/prs?username=Param96&theme=tokyonight"/></td>
-<td align="center" width="33%"><img src="https://vn7n24fzkq02.vercel.app/api/cards/issues?username=Param96&theme=tokyonight"/></td>
-<td align="center" width="33%"><img src="https://vn7n24fzkq02.vercel.app/api/cards/repo?username=Param96&theme=tokyonight"/></td>
-</tr>
-<tr>
-<td align="center" width="33%"><img src="https://vn7n24fzkq02.vercel.app/api/cards/stars?username=Param96&theme=tokyonight"/></td>
-<td align="center" width="33%"><img src="https://vn7n24fzkq02.vercel.app/api/cards/commit?username=Param96&theme=tokyonight"/></td>
-<td align="center" width="33%"><img src="https://vn7n24fzkq02.vercel.app/api/cards/followers?username=Param96&theme=tokyonight"/></td>
-</tr>
-</table>
+<img width="65%" src="./assets/pr-stats.svg"/>
+
+<img width="65%" src="./assets/profile-details.svg"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="./assets/trophies.svg"/>
 
 </div>
 
@@ -256,11 +251,11 @@ Completed all three courses covering supervised learning (linear regression, log
 
 ### ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="./assets/quote.svg"/>
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Param96&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="./assets/top-contributed-repo.svg"/>
 
 </div>
 
@@ -289,5 +284,5 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <div align="center">
-<sub>Built with 💙 — Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
 </div>
