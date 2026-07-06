@@ -43,6 +43,16 @@ jobs:
 
       # --- Everything below still comes from live third-party endpoints,       ---
       # --- which have been working fine, so left as simple curl fetches       ---
+      - name: Generate trophies card
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: assets/trophies.svg
+          theme: tokyonight
+          no-frame: true
+          margin-w: 4
+          row: 1
+
       - name: Fetch activity graph
         run: curl -sL --retry 3 --max-time 25 -o assets/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyo-night&hide_border=true&area=true"
 
@@ -57,9 +67,6 @@ jobs:
 
       - name: Fetch top contributed repo card
         run: curl -sL --retry 3 --max-time 25 -o assets/top-contributed-repo.svg "https://github-contributor-stats.vercel.app/api?username=${{ github.repository_owner }}&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-
-      - name: Fetch trophies card
-        run: curl -sL --retry 3 --max-time 25 -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&margin-w=4&row=1"
 
       - name: Drop any empty/failed curl downloads
         run: find assets -maxdepth 1 -name "*.svg" -size -200c -delete
