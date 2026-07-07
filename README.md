@@ -236,9 +236,11 @@ Completed all three courses covering supervised learning (linear regression, log
 
 <div align="center">
 
-### 🏆 Achievements
+### ✦ Language Constellation
 
-<img src="./assets/metrics-achievements.svg" width="100%"/>
+<img alt="language constellation — top languages as stars sized by real usage, connected like a constellation, with a comet sweeping across" src="./assets/constellation.svg" width="100%"/>
+
+<sub>Each star is a language — sized by how much of your code is actually written in it. Built entirely from a script in this repo calling GitHub's API directly.</sub>
 
 </div>
 
