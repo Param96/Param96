@@ -1,263 +1,138 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2196F3&height=220&section=header&text=Hi%20There%2C%20I'm%20Param%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;ML+%2F+AI+Enthusiast+%F0%9F%A4%96;I+build+AI+Agents+%E2%9A%A1;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-2196F3?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML%20Beginner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agent%20Builder-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
-</div>
-
-## 💫 About Me
-
-<details open>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-🔭 **I'm currently working on**
-Building full-stack applications while experimenting with AI/ML integrations and real-world use cases.
-
-👯 **I'm looking to collaborate on**
-AI-powered products, full-stack projects, and ideas that solve actual problems.
-
-🤝 **I'm looking for help with**
-Understanding ML fundamentals deeply and applying them beyond tutorials.
-
-🌱 **I'm currently learning**
-Machine learning, data science basics, and how to productionize models.
-
-💬 **Ask me about**
-Full-stack development, APIs, databases, project architecture, or getting started with AI/ML.
-
-⚡ **Fun fact**
-I prefer building things that work over talking about things that might.
-
-</details>
-
-<div align="center">
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/77SGT6uf)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/param_230)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramp06/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramppatel100@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
-</div>
-
-<div align="center">
-
-## 🎓 Certifications
-
-</div>
-
-<table>
-<tr>
-<td width="70">
-  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-</td>
-<td>
-
-**IBM Full Stack Software Developer Professional Certificate**
-Completed 15 courses covering application development and cloud technologies, with hands-on experience across HTML, CSS, JavaScript, GitHub, Node.js, React, Python, Django ORM, Bootstrap, SQL & NoSQL databases, Docker, Kubernetes, OpenShift, CI/CD, microservices, serverless computing, and application security. Delivered a capstone project and a full SaaS solution built with cloud-native methodologies.
-
-</td>
-</tr>
-<tr>
-<td width="70">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-</td>
-<td>
-
-**Machine Learning Specialization** (DeepLearning.AI & Stanford Online)
-Completed all three courses covering supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning (clustering, anomaly detection), recommender systems, and reinforcement learning — along with best practices for building and applying ML models to real-world problems.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
-</div>
-
-<div align="center">
-
-## 💻 Tech Stack
-
-</div>
-
-<details open>
-<summary><b>🔤 Languages</b></summary>
-<br/>
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-</div>
-</details>
-
-<details>
-<summary><b>🤖 AI / ML & Data Science</b></summary>
-<br/>
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-</div>
-</details>
-
-<details>
-<summary><b>🗄️ Backend & Databases</b></summary>
-<br/>
-<div align="center">
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Tools</b></summary>
-<br/>
-<div align="center">
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><b>🎭 Design & Other</b></summary>
-<br/>
-<div align="center">
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-</div>
-</details>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
-</div>
-
-<div align="center">
-
-## 📊 Profile Metrics
-
-<img src="./assets/metrics-base.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 💻 Top Languages
-
-<img src="./assets/metrics-languages.svg" width="80%"/>
-
-</div>
-
-<div align="center">
-
-### 🧊 Isometric Contribution Calendar
-
-<img src="./assets/metrics-isocalendar.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### ✦ Language Constellation
-
-<img alt="language constellation — top languages as stars sized by real usage, connected like a constellation, with a comet sweeping across" src="./assets/constellation.svg" width="100%"/>
-
-<sub>Each star is a language — sized by how much of your code is actually written in it. Built entirely from a script in this repo calling GitHub's API directly.</sub>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
-</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Param96&icon=9&color=2)](https://visitcount.itsvg.in)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2196F3&height=120&section=footer"/>
-</div>
-
-<div align="center">
-<sub>Built with 💙</sub>
-</div>
+// generate-skyline.js
+// Each week of the last year becomes a 3D isometric building — taller and
+// brighter-windowed the more you shipped that week. A city that grows with you.
+
+const USERNAME = process.env.USERNAME;
+const TOKEN = process.env.METRICS_TOKEN || process.env.GITHUB_TOKEN;
+const OUT_PATH = process.env.OUT_PATH || "assets/skyline.svg";
+
+if (!USERNAME) throw new Error("USERNAME is empty");
+if (!TOKEN) throw new Error("No token found (METRICS_TOKEN or GITHUB_TOKEN)");
+
+const QUERY = `
+query($login: String!) {
+  user(login: $login) {
+    contributionsCollection {
+      contributionCalendar {
+        weeks {
+          contributionDays { contributionCount }
+        }
+      }
+    }
+  }
+}`;
+
+async function fetchWeeks() {
+  const res = await fetch("https://api.github.com/graphql", {
+    method: "POST",
+    headers: {
+      "Authorization": `bearer ${TOKEN}`,
+      "Content-Type": "application/json",
+      "User-Agent": USERNAME
+    },
+    body: JSON.stringify({ query: QUERY, variables: { login: USERNAME } })
+  });
+  if (!res.ok) throw new Error(`GitHub API request failed: ${res.status} ${await res.text()}`);
+  const json = await res.json();
+  if (json.errors) throw new Error(`GraphQL errors: ${JSON.stringify(json.errors)}`);
+  return json.data.user.contributionsCollection.contributionCalendar.weeks;
+}
+
+function lerp(a, b, t) { return a + (b - a) * t; }
+
+function colorForHeight(t) {
+  // dim slate -> teal -> warm gold, taller buildings glow warmer
+  const stops = [
+    { t: 0, r: 0x30, g: 0x36, b: 0x3d },
+    { t: 0.5, r: 0x2e, g: 0x7a, b: 0x8a },
+    { t: 1, r: 0xff, g: 0xc5, b: 0x5c }
+  ];
+  let a = stops[0], b = stops[stops.length - 1];
+  for (let i = 0; i < stops.length - 1; i++) {
+    if (t >= stops[i].t && t <= stops[i + 1].t) { a = stops[i]; b = stops[i + 1]; break; }
+  }
+  const lt = (b.t - a.t) === 0 ? 0 : (t - a.t) / (b.t - a.t);
+  return `rgb(${Math.round(lerp(a.r, b.r, lt))},${Math.round(lerp(a.g, b.g, lt))},${Math.round(lerp(a.b, b.b, lt))})`;
+}
+
+function buildSvg(weeks) {
+  const weeklyTotals = weeks.map(w => w.contributionDays.reduce((s, d) => s + d.contributionCount, 0));
+  const recent = weeklyTotals.slice(-52);
+  const maxVal = Math.max(4, ...recent);
+
+  const width = 960;
+  const height = 260;
+  const groundY = 210;
+  const bw = 12;       // building front-face width
+  const depth = 6;      // isometric depth offset
+  const spacing = (width - 60) / recent.length;
+  const maxH = 130;
+
+  const stars = Array.from({ length: 30 }, (_, i) => {
+    const sx = (i * 47 + 11) % width;
+    const sy = 6 + ((i * 37) % 90);
+    const delay = (i % 10) * 0.3;
+    return `<circle cx="${sx}" cy="${sy}" r="${i % 3 === 0 ? 1.5 : 0.8}" fill="#fff" opacity="0.4">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.6s" begin="${delay}s" repeatCount="indefinite"/>
+    </circle>`;
+  }).join("\n");
+
+  const buildings = recent.map((val, i) => {
+    const t = Math.min(1, val / maxVal);
+    const h = 6 + t * maxH;
+    const x = 40 + i * spacing;
+    const color = colorForHeight(t);
+    const topColor = colorForHeight(Math.min(1, t + 0.15));
+    const sideColor = `rgb(${Math.round(20)},${Math.round(20)},${Math.round(25)})`;
+
+    // front face
+    const front = `<rect x="${x}" y="${groundY - h}" width="${bw}" height="${h}" fill="${color}"/>`;
+    // side face (parallelogram) for iso depth
+    const side = `<polygon points="${x + bw},${groundY - h} ${x + bw + depth},${groundY - h - depth} ${x + bw + depth},${groundY - depth} ${x + bw},${groundY}" fill="${sideColor}" opacity="0.85"/>`;
+    // top face
+    const top = `<polygon points="${x},${groundY - h} ${x + depth},${groundY - h - depth} ${x + bw + depth},${groundY - h - depth} ${x + bw},${groundY - h}" fill="${topColor}"/>`;
+
+    // a window light for tall (high-activity) buildings only
+    let window = "";
+    if (t > 0.35) {
+      const wy = groundY - h + Math.min(h * 0.4, 14);
+      const delay = (i % 8) * 0.4;
+      window = `<rect x="${x + 3}" y="${wy}" width="3" height="4" fill="#FFE8A3">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="${delay}s" repeatCount="indefinite"/>
+      </rect>`;
+    }
+
+    return front + side + top + window;
+  }).join("\n");
+
+  return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skysl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#1b2a3f"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="${width}" height="${height}" fill="url(#skysl)"/>
+  ${stars}
+  <circle cx="${width - 70}" cy="40" r="16" fill="#F5F1E3" opacity="0.85"/>
+  <text x="24" y="26" font-family="Fira Code, monospace" font-size="14" fill="#E3B341" letter-spacing="1">◈ Contribution Skyline</text>
+  <text x="24" y="44" font-family="Fira Code, monospace" font-size="10" fill="#7d8590">each building is a week — taller and brighter the more you shipped</text>
+  <line x1="0" y1="${groundY}" x2="${width}" y2="${groundY}" stroke="#2196F3" stroke-width="1.2" opacity="0.5"/>
+  ${buildings}
+</svg>`;
+}
+
+async function main() {
+  const weeks = await fetchWeeks();
+  const svg = buildSvg(weeks);
+  const fs = await import("node:fs/promises");
+  const path = await import("node:path");
+  await fs.mkdir(path.dirname(OUT_PATH), { recursive: true });
+  await fs.writeFile(OUT_PATH, svg, "utf8");
+  console.log(`Wrote ${OUT_PATH}`);
+}
+
+main().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
