@@ -212,65 +212,38 @@ Completed all three courses covering supervised learning (linear regression, log
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 Profile Metrics
 
-<img width="49%" src="./assets/stats.svg"/>
-<img width="49%" src="./assets/streak.svg"/>
-
-<img width="65%" src="./assets/top-langs.svg"/>
+<img src="./assets/metrics-base.svg" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### 📈 Activity Graph
+### 💻 Top Languages
 
-<img src="./assets/activity-graph.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 🔀 Pull Request & Contribution Summary
-
-<img width="65%" src="./assets/pr-stats.svg"/>
-
-<img width="65%" src="./assets/profile-details.svg"/>
+<img src="./assets/metrics-languages.svg" width="80%"/>
 
 </div>
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 🧊 Isometric Contribution Calendar
 
-<img src="./assets/trophies.svg"/>
+<img src="./assets/metrics-isocalendar.svg" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### 🏆 Achievements
 
-<img src="./assets/quote.svg"/>
-
-### 🔝 Top Contributed Repo
-
-<img src="./assets/top-contributed-repo.svg"/>
+<img src="./assets/metrics-achievements.svg" width="100%"/>
 
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
-</div>
-
-<div align="center">
-
-### 🌱 Contribution Garden
-
-<img alt="animated contribution garden" src="./assets/garden.svg" width="100%"/>
-
-<sub>Each stem is a day from the last 60 — taller and brighter the more you shipped that day. Generated entirely by a script in this repo, so nothing outside it can go down.</sub>
-
 </div>
 
 <div align="center">
@@ -284,5 +257,5 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <div align="center">
-<sub>Built with 💙 — Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<sub>Built with 💙</sub>
 </div>
