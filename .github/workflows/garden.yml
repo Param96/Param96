@@ -1,0 +1,31 @@
+name: Generate contribution garden
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  garden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate garden SVG
+        run: node scripts/generate-garden.js
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_PATH: assets/garden.svg
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/garden.svg
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: regenerate contribution garden"
+          git pull --rebase origin main
+          git push
