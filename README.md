@@ -265,11 +265,11 @@ Completed all three courses covering supervised learning (linear regression, log
 
 <div align="center">
 
-### 🧊 3D Contribution Calendar
+### 🌱 Contribution Garden
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%"/>
+<img alt="animated contribution garden" src="./assets/garden.svg" width="100%"/>
 
-<sub>A rotating, animated 3D version of your contribution graph — swaps the flat snake for a proper spatial visualization that cycles through the seasons.</sub>
+<sub>Each stem is a day from the last 60 — taller and brighter the more you shipped that day. Generated entirely by a script in this repo, so nothing outside it can go down.</sub>
 
 </div>
 
@@ -284,5 +284,5 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <div align="center">
-
+<sub>Built with 💙 — Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 </div>
