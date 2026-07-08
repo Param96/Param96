@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,100:7F5AF0&height=220&section=header&text=Hi%20There%2C%20I'm%20Param%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=220&section=header&text=Hi%20There%2C%20I'm%20Param%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -19,6 +19,10 @@
 </div>
 
 ## 💫 About Me
+
+<img alt="mission log — a compact status readout" src="./assets/log.svg" width="100%"/>
+
+<br/>
 
 🔭 **I'm currently working on**
 Building full-stack applications while experimenting with AI/ML integrations and real-world use cases.
@@ -46,6 +50,10 @@ I prefer building things that work over talking about things that might.
 
 
 ## 🌐 Socials
+
+<img alt="signal network — a satellite hub pinging out to each platform" src="./assets/signal.svg" width="100%"/>
+
+<br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/77SGT6uf)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/param_230)
@@ -120,6 +128,12 @@ Completed all three courses covering supervised learning (linear regression, log
 
 
 ## 💻 Tech Stack
+
+</div>
+
+<div align="center">
+
+<img alt="tech orbit — skill categories as planets orbiting a central star" src="./assets/orbit.svg" width="100%"/>
 
 </div>
 
@@ -287,7 +301,7 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,100:7F5AF0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=120&section=footer"/>
 </div>
 
 <div align="center">
