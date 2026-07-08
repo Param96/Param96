@@ -78,13 +78,13 @@ function buildSvg(stats) {
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="dashbg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
+      <stop offset="0%" stop-color="#030014"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
     </linearGradient>
   </defs>
   <rect x="0" y="0" width="${width}" height="${height}" rx="10" fill="url(#dashbg)"/>
   <text x="${width / 2}" y="32" text-anchor="middle" font-family="Fira Code, monospace"
-    font-size="15" fill="#E3B341" letter-spacing="2">◆ PROFILE DASHBOARD ◆</text>
+    font-size="15" fill="#FFD166" letter-spacing="2">◆ MISSION CONTROL ◆</text>
   ${medallions}
 </svg>`;
 }
@@ -95,12 +95,12 @@ async function main() {
   const c = user.contributionsCollection;
 
   const stats = [
-    { label: "FOLLOWERS", value: user.followers.totalCount, color: "#4493F8" },
-    { label: "STARS EARNED", value: totalStars, color: "#E3B341" },
-    { label: "PUBLIC REPOS", value: user.repositories.totalCount, color: "#3FB950" },
-    { label: "COMMITS (YR)", value: c.totalCommitContributions, color: "#7ce38a" },
-    { label: "PULL REQUESTS", value: c.totalPullRequestContributions, color: "#db61a2" },
-    { label: "ISSUES", value: c.totalIssueContributions, color: "#f78166" }
+    { label: "FOLLOWERS", value: user.followers.totalCount, color: "#2CB1BC" },
+    { label: "STARS EARNED", value: totalStars, color: "#FFD166" },
+    { label: "PUBLIC REPOS", value: user.repositories.totalCount, color: "#7F5AF0" },
+    { label: "COMMITS (YR)", value: c.totalCommitContributions, color: "#9D7FFF" },
+    { label: "PULL REQUESTS", value: c.totalPullRequestContributions, color: "#E94BFF" },
+    { label: "ISSUES", value: c.totalIssueContributions, color: "#4DD8E6" }
   ];
 
   const svg = buildSvg(stats);
