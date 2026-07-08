@@ -41,11 +41,11 @@ async function fetchWeeks() {
 function lerp(a, b, t) { return a + (b - a) * t; }
 
 function colorForHeight(t) {
-  // dim slate -> teal -> warm gold, taller buildings glow warmer
+  // dim void -> cyan -> magenta, taller towers glow hotter
   const stops = [
-    { t: 0, r: 0x30, g: 0x36, b: 0x3d },
-    { t: 0.5, r: 0x2e, g: 0x7a, b: 0x8a },
-    { t: 1, r: 0xff, g: 0xc5, b: 0x5c }
+    { t: 0, r: 0x2a, g: 0x1f, b: 0x4d },
+    { t: 0.5, r: 0x2C, g: 0xB1, b: 0xBC },
+    { t: 1, r: 0xE9, g: 0x4B, b: 0xFF }
   ];
   let a = stops[0], b = stops[stops.length - 1];
   for (let i = 0; i < stops.length - 1; i++) {
@@ -92,12 +92,12 @@ function buildSvg(weeks) {
     // top face
     const top = `<polygon points="${x},${groundY - h} ${x + depth},${groundY - h - depth} ${x + bw + depth},${groundY - h - depth} ${x + bw},${groundY - h}" fill="${topColor}"/>`;
 
-    // a window light for tall (high-activity) buildings only
+    // a beacon light on tall (high-activity) towers only
     let window = "";
     if (t > 0.35) {
       const wy = groundY - h + Math.min(h * 0.4, 14);
       const delay = (i % 8) * 0.4;
-      window = `<rect x="${x + 3}" y="${wy}" width="3" height="4" fill="#FFE8A3">
+      window = `<rect x="${x + 3}" y="${wy}" width="3" height="4" fill="#FFD166">
         <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="${delay}s" repeatCount="indefinite"/>
       </rect>`;
     }
@@ -108,16 +108,22 @@ function buildSvg(weeks) {
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="skysl" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#1b2a3f"/>
+      <stop offset="0%" stop-color="#030014"/>
+      <stop offset="100%" stop-color="#1a1140"/>
     </linearGradient>
+    <radialGradient id="planetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#E9C089"/>
+      <stop offset="100%" stop-color="#E9C089" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect x="0" y="0" width="${width}" height="${height}" fill="url(#skysl)"/>
   ${stars}
-  <circle cx="${width - 70}" cy="40" r="16" fill="#F5F1E3" opacity="0.85"/>
-  <text x="24" y="26" font-family="Fira Code, monospace" font-size="14" fill="#E3B341" letter-spacing="1">◈ Contribution Skyline</text>
-  <text x="24" y="44" font-family="Fira Code, monospace" font-size="10" fill="#7d8590">each building is a week — taller and brighter the more you shipped</text>
-  <line x1="0" y1="${groundY}" x2="${width}" y2="${groundY}" stroke="#2196F3" stroke-width="1.2" opacity="0.5"/>
+  <ellipse cx="${width - 70}" cy="40" rx="30" ry="7" fill="none" stroke="#7F5AF0" stroke-width="1.5" opacity="0.5" transform="rotate(-15 ${width - 70} 40)"/>
+  <circle cx="${width - 70}" cy="40" r="16" fill="#E9C089" opacity="0.9"/>
+  <circle cx="${width - 70}" cy="40" r="24" fill="url(#planetGlow)" opacity="0.3"/>
+  <text x="24" y="26" font-family="Fira Code, monospace" font-size="14" fill="#FFD166" letter-spacing="1">◈ Orbital Skyline</text>
+  <text x="24" y="44" font-family="Fira Code, monospace" font-size="10" fill="#8892b0">each tower is a week — taller and brighter the more you shipped</text>
+  <line x1="0" y1="${groundY}" x2="${width}" y2="${groundY}" stroke="#7F5AF0" stroke-width="1.2" opacity="0.5"/>
   ${buildings}
 </svg>`;
 }
