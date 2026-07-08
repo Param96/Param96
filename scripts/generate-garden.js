@@ -53,13 +53,13 @@ async function fetchContributions() {
 function lerp(a, b, t) { return a + (b - a) * t; }
 
 function colorForCount(t) {
-  // t in [0,1] -> stem/flower color from dim grey-green to bright bloom
+  // t in [0,1] -> stem/flower color from dim void-violet to bioluminescent bloom
   const stops = [
-    { t: 0.0, r: 0x30, g: 0x36, b: 0x3d },
-    { t: 0.25, r: 0x2e, g: 0x5a, b: 0x3e },
-    { t: 0.55, r: 0x3f, g: 0xb9, b: 0x50 },
-    { t: 0.8, r: 0x7c, g: 0xe3, b: 0x8a },
-    { t: 1.0, r: 0xff, g: 0xd6, b: 0x6b }
+    { t: 0.0, r: 0x2a, g: 0x1f, b: 0x4d },
+    { t: 0.25, r: 0x7F, g: 0x5A, b: 0xF0 },
+    { t: 0.55, r: 0x2C, g: 0xB1, b: 0xBC },
+    { t: 0.8, r: 0xE9, g: 0x4B, b: 0xFF },
+    { t: 1.0, r: 0xFF, g: 0xD1, b: 0x66 }
   ];
   let a = stops[0], b = stops[stops.length - 1];
   for (let i = 0; i < stops.length - 1; i++) {
@@ -116,18 +116,18 @@ function buildSvg(days) {
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#1b2a4a"/>
+      <stop offset="0%" stop-color="#030014"/>
+      <stop offset="100%" stop-color="#241b40"/>
     </linearGradient>
     <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#161b22"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+      <stop offset="0%" stop-color="#150f2e"/>
+      <stop offset="100%" stop-color="#030014"/>
     </linearGradient>
   </defs>
   <rect x="0" y="0" width="${width}" height="${height}" fill="url(#sky)"/>
   ${stars}
   <rect x="0" y="${groundY}" width="${width}" height="${height - groundY}" fill="url(#ground)"/>
-  <line x1="0" y1="${groundY}" x2="${width}" y2="${groundY}" stroke="#2196F3" stroke-width="1.5" opacity="0.6"/>
+  <line x1="0" y1="${groundY}" x2="${width}" y2="${groundY}" stroke="#7F5AF0" stroke-width="1.5" opacity="0.6"/>
   ${stems}
 </svg>`;
 }
