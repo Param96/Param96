@@ -1,45 +1,45 @@
 <svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="dashbg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
+      <stop offset="0%" stop-color="#030014"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
     </linearGradient>
   </defs>
   <rect x="0" y="0" width="900" height="300" rx="10" fill="url(#dashbg)"/>
   <text x="450" y="32" text-anchor="middle" font-family="Fira Code, monospace"
-    font-size="15" fill="#E3B341" letter-spacing="2">◆ PROFILE DASHBOARD ◆</text>
+    font-size="15" fill="#FFD166" letter-spacing="2">◆ MISSION CONTROL ◆</text>
   <g>
-      <circle cx="150" cy="115" r="56" fill="#4493F8" opacity="0.08">
+      <circle cx="150" cy="115" r="56" fill="#2CB1BC" opacity="0.08">
         <animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.5s" begin="0.00s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="150" cy="115" r="46" fill="none" stroke="#4493F8" stroke-width="2" opacity="0.55"/>
-      <circle cx="150" cy="115" r="46" fill="none" stroke="#4493F8" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
+      <circle cx="150" cy="115" r="46" fill="none" stroke="#2CB1BC" stroke-width="2" opacity="0.55"/>
+      <circle cx="150" cy="115" r="46" fill="none" stroke="#2CB1BC" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
         <animateTransform attributeName="transform" type="rotate" from="0 150 115" to="360 150 115" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="150" y="121" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">47</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">44</text>
       <text x="150" y="183" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">FOLLOWERS</text>
     </g>
 <g>
-      <circle cx="450" cy="115" r="56" fill="#E3B341" opacity="0.08">
+      <circle cx="450" cy="115" r="56" fill="#FFD166" opacity="0.08">
         <animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.5s" begin="0.30s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="450" cy="115" r="46" fill="none" stroke="#E3B341" stroke-width="2" opacity="0.55"/>
-      <circle cx="450" cy="115" r="46" fill="none" stroke="#E3B341" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
+      <circle cx="450" cy="115" r="46" fill="none" stroke="#FFD166" stroke-width="2" opacity="0.55"/>
+      <circle cx="450" cy="115" r="46" fill="none" stroke="#FFD166" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
         <animateTransform attributeName="transform" type="rotate" from="0 450 115" to="360 450 115" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="450" y="121" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">19</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">17</text>
       <text x="450" y="183" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">STARS EARNED</text>
     </g>
 <g>
-      <circle cx="750" cy="115" r="56" fill="#3FB950" opacity="0.08">
+      <circle cx="750" cy="115" r="56" fill="#7F5AF0" opacity="0.08">
         <animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.5s" begin="0.60s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="750" cy="115" r="46" fill="none" stroke="#3FB950" stroke-width="2" opacity="0.55"/>
-      <circle cx="750" cy="115" r="46" fill="none" stroke="#3FB950" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
+      <circle cx="750" cy="115" r="46" fill="none" stroke="#7F5AF0" stroke-width="2" opacity="0.55"/>
+      <circle cx="750" cy="115" r="46" fill="none" stroke="#7F5AF0" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
         <animateTransform attributeName="transform" type="rotate" from="0 750 115" to="360 750 115" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="750" y="121" text-anchor="middle" font-family="Fira Code, monospace"
@@ -48,24 +48,24 @@
         font-size="12" fill="#7d8590" letter-spacing="0.5">PUBLIC REPOS</text>
     </g>
 <g>
-      <circle cx="150" cy="225" r="56" fill="#7ce38a" opacity="0.08">
+      <circle cx="150" cy="225" r="56" fill="#9D7FFF" opacity="0.08">
         <animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.5s" begin="0.90s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="150" cy="225" r="46" fill="none" stroke="#7ce38a" stroke-width="2" opacity="0.55"/>
-      <circle cx="150" cy="225" r="46" fill="none" stroke="#7ce38a" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
+      <circle cx="150" cy="225" r="46" fill="none" stroke="#9D7FFF" stroke-width="2" opacity="0.55"/>
+      <circle cx="150" cy="225" r="46" fill="none" stroke="#9D7FFF" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
         <animateTransform attributeName="transform" type="rotate" from="0 150 225" to="360 150 225" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="150" y="231" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">542</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">551</text>
       <text x="150" y="293" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">COMMITS (YR)</text>
     </g>
 <g>
-      <circle cx="450" cy="225" r="56" fill="#db61a2" opacity="0.08">
+      <circle cx="450" cy="225" r="56" fill="#E94BFF" opacity="0.08">
         <animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.5s" begin="1.20s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="450" cy="225" r="46" fill="none" stroke="#db61a2" stroke-width="2" opacity="0.55"/>
-      <circle cx="450" cy="225" r="46" fill="none" stroke="#db61a2" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
+      <circle cx="450" cy="225" r="46" fill="none" stroke="#E94BFF" stroke-width="2" opacity="0.55"/>
+      <circle cx="450" cy="225" r="46" fill="none" stroke="#E94BFF" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
         <animateTransform attributeName="transform" type="rotate" from="0 450 225" to="360 450 225" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="450" y="231" text-anchor="middle" font-family="Fira Code, monospace"
@@ -74,11 +74,11 @@
         font-size="12" fill="#7d8590" letter-spacing="0.5">PULL REQUESTS</text>
     </g>
 <g>
-      <circle cx="750" cy="225" r="56" fill="#f78166" opacity="0.08">
+      <circle cx="750" cy="225" r="56" fill="#4DD8E6" opacity="0.08">
         <animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.5s" begin="1.50s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="750" cy="225" r="46" fill="none" stroke="#f78166" stroke-width="2" opacity="0.55"/>
-      <circle cx="750" cy="225" r="46" fill="none" stroke="#f78166" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
+      <circle cx="750" cy="225" r="46" fill="none" stroke="#4DD8E6" stroke-width="2" opacity="0.55"/>
+      <circle cx="750" cy="225" r="46" fill="none" stroke="#4DD8E6" stroke-width="2" stroke-dasharray="6 10" opacity="0.35">
         <animateTransform attributeName="transform" type="rotate" from="0 750 225" to="360 750 225" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="750" y="231" text-anchor="middle" font-family="Fira Code, monospace"
