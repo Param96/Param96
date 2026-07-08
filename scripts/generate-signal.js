@@ -14,9 +14,9 @@ const NODES = [
 
 function buildSvg() {
   const width = 900;
-  const height = 260;
+  const height = 330;
   const hubX = width / 2;
-  const hubY = height / 2 + 10;
+  const hubY = 150;
   const radius = 220;
 
   const stars = Array.from({ length: 20 }, (_, i) => {
