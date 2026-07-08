@@ -1,0 +1,136 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="signalbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#030014"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="260" rx="10" fill="url(#signalbg)"/>
+  <circle cx="13" cy="5" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="74" cy="48" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="135" cy="91" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="196" cy="134" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0.8999999999999999s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="257" cy="177" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="318" cy="220" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="379" cy="3" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="440" cy="46" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="501" cy="89" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="562" cy="132" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="2.6999999999999997s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="623" cy="175" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="684" cy="218" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="745" cy="1" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="806" cy="44" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="0.8999999999999999s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="867" cy="87" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="28" cy="130" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="89" cy="173" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="150" cy="216" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="211" cy="259" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+<circle cx="272" cy="42" r="0.8" fill="#fff" opacity="0.3">
+      <animate attributeName="opacity" values="0.05;0.5;0.05" dur="4s" begin="2.6999999999999997s" repeatCount="indefinite"/>
+    </circle>
+  <text x="450" y="26" text-anchor="middle" font-family="Fira Code, monospace"
+    font-size="14" fill="#FFD166" letter-spacing="2">◈ SIGNAL NETWORK ◈</text>
+  <g>
+      <line x1="450" y1="140" x2="560" y2="35.210926142082926" stroke="#7289DA" stroke-width="1" opacity="0.25"/>
+      <circle r="4" fill="#7289DA">
+        <animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite"
+          path="M 450 140 L 560 35.210926142082926"/>
+        <animate attributeName="opacity" values="1;1;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="560" cy="35.210926142082926" r="10" fill="none" stroke="#7289DA" stroke-width="1.5"/>
+      <circle cx="560" cy="35.210926142082926" r="10" fill="#7289DA" opacity="0.15">
+        <animate attributeName="r" values="10;16;10" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.25;0;0.25" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="560" y="15.210926142082926" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="11" fill="#7289DA" letter-spacing="1">DISCORD</text>
+    </g>
+<g>
+      <line x1="450" y1="140" x2="656.7323765728999" y2="98.61556265759407" stroke="#E4405F" stroke-width="1" opacity="0.25"/>
+      <circle r="4" fill="#E4405F">
+        <animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite"
+          path="M 450 140 L 656.7323765728999 98.61556265759407"/>
+        <animate attributeName="opacity" values="1;1;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="656.7323765728999" cy="98.61556265759407" r="10" fill="none" stroke="#E4405F" stroke-width="1.5"/>
+      <circle cx="656.7323765728999" cy="98.61556265759407" r="10" fill="#E4405F" opacity="0.15">
+        <animate attributeName="r" values="10;16;10" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.25;0;0.25" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="656.7323765728999" y="78.61556265759407" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="11" fill="#E4405F" letter-spacing="1">INSTAGRAM</text>
+    </g>
+<g>
+      <line x1="450" y1="140" x2="656.7323765728999" y2="181.38443734240593" stroke="#0077B5" stroke-width="1" opacity="0.25"/>
+      <circle r="4" fill="#0077B5">
+        <animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"
+          path="M 450 140 L 656.7323765728999 181.38443734240593"/>
+        <animate attributeName="opacity" values="1;1;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="656.7323765728999" cy="181.38443734240593" r="10" fill="none" stroke="#0077B5" stroke-width="1.5"/>
+      <circle cx="656.7323765728999" cy="181.38443734240593" r="10" fill="#0077B5" opacity="0.15">
+        <animate attributeName="r" values="10;16;10" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.25;0;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="656.7323765728999" y="211.38443734240593" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="11" fill="#0077B5" letter-spacing="1">LINKEDIN</text>
+    </g>
+<g>
+      <line x1="450" y1="140" x2="560" y2="244.78907385791706" stroke="#D14836" stroke-width="1" opacity="0.25"/>
+      <circle r="4" fill="#D14836">
+        <animateMotion dur="2.4s" begin="1.8s" repeatCount="indefinite"
+          path="M 450 140 L 560 244.78907385791706"/>
+        <animate attributeName="opacity" values="1;1;0" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="560" cy="244.78907385791706" r="10" fill="none" stroke="#D14836" stroke-width="1.5"/>
+      <circle cx="560" cy="244.78907385791706" r="10" fill="#D14836" opacity="0.15">
+        <animate attributeName="r" values="10;16;10" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.25;0;0.25" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="560" y="274.78907385791706" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="11" fill="#D14836" letter-spacing="1">EMAIL</text>
+    </g>
+  <circle cx="450" cy="140" r="9" fill="#7F5AF0"/>
+  <circle cx="450" cy="140" r="16" fill="none" stroke="#7F5AF0" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="r" values="16;30;16" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
