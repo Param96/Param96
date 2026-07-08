@@ -99,7 +99,7 @@ function buildSvg({ ranked, totalStars, totalContributions }) {
 
   const constellationLines = points.slice(1).map((p, i) => {
     const prev = points[i];
-    return `<line x1="${prev.x}" y1="${prev.y}" x2="${p.x}" y2="${p.y}" stroke="#4493F8" stroke-width="1" opacity="0.35"/>`;
+    return `<line x1="${prev.x}" y1="${prev.y}" x2="${p.x}" y2="${p.y}" stroke="#2CB1BC" stroke-width="1" opacity="0.35"/>`;
   }).join("\n");
 
   const stars = points.map((p, i) => {
@@ -121,9 +121,17 @@ function buildSvg({ ranked, totalStars, totalContributions }) {
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#161b2e"/>
+      <stop offset="0%" stop-color="#030014"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
     </linearGradient>
+    <radialGradient id="nebula1" cx="30%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#7F5AF0" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#7F5AF0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="75%" cy="65%" r="55%">
+      <stop offset="0%" stop-color="#E94BFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#E94BFF" stop-opacity="0"/>
+    </radialGradient>
     <radialGradient id="cometGlow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
@@ -132,10 +140,12 @@ function buildSvg({ ranked, totalStars, totalContributions }) {
   </defs>
 
   <rect x="0" y="0" width="${width}" height="${height}" fill="url(#sky)"/>
+  <rect x="0" y="0" width="${width}" height="${height}" fill="url(#nebula1)"/>
+  <rect x="0" y="0" width="${width}" height="${height}" fill="url(#nebula2)"/>
   ${backgroundStars}
 
   <text x="${width / 2}" y="34" text-anchor="middle" font-family="Fira Code, monospace"
-    font-size="16" fill="#E3B341" letter-spacing="2">✦ LANGUAGE CONSTELLATION ✦</text>
+    font-size="16" fill="#FFD166" letter-spacing="2">✦ LANGUAGE CONSTELLATION ✦</text>
   <text x="${width / 2}" y="54" text-anchor="middle" font-family="Fira Code, monospace"
     font-size="11" fill="#7d8590">${totalContributions.toLocaleString()} contributions charted · ${totalStars} stars earned</text>
 
