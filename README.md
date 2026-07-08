@@ -24,23 +24,6 @@
 
 <br/>
 
-🔭 **I'm currently working on**
-Building full-stack applications while experimenting with AI/ML integrations and real-world use cases.
-
-👯 **I'm looking to collaborate on**
-AI-powered products, full-stack projects, and ideas that solve actual problems.
-
-🤝 **I'm looking for help with**
-Understanding ML fundamentals deeply and applying them beyond tutorials.
-
-🌱 **I'm currently learning**
-Machine learning, data science basics, and how to productionize models.
-
-💬 **Ask me about**
-Full-stack development, APIs, databases, project architecture, or getting started with AI/ML.
-
-⚡ **Fun fact**
-I prefer building things that work over talking about things that might.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=88&section=header&text=🌐%20Socials&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
@@ -49,16 +32,13 @@ I prefer building things that work over talking about things that might.
 <div align="center">
 
 
-## 🌐 Socials
+
 
 <img alt="signal network — a satellite hub pinging out to each platform" src="./assets/signal.svg" width="100%"/>
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/77SGT6uf)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/param_230)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramp06/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramppatel100@gmail.com)
+
 
 </div>
 
@@ -68,11 +48,10 @@ I prefer building things that work over talking about things that might.
 
 <div align="center">
 
-## 🌍 Portfolio
 
-[![Website](https://img.shields.io/badge/Visit%20My%20Website-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-domain.com)
 
-<sub>⚠️ placeholder link — swap in your actual portfolio URL</sub>
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parampatel.in)
+
 
 </div>
 
@@ -129,13 +108,7 @@ Completed all three courses covering supervised learning (linear regression, log
 
 ## 💻 Tech Stack
 
-</div>
 
-<div align="center">
-
-<img alt="tech orbit — skill categories as planets orbiting a central star" src="./assets/orbit.svg" width="100%"/>
-
-</div>
 
 **🔤 Languages**
 <br/>
