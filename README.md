@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2196F3&height=220&section=header&text=Hi%20There%2C%20I'm%20Param%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,100:7F5AF0&height=220&section=header&text=Hi%20There%2C%20I'm%20Param%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;ML+%2F+AI+Enthusiast+%F0%9F%A4%96;I+build+AI+Agents+%E2%9A%A1;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;ML+%2F+AI+Enthusiast+%F0%9F%A4%96;I+build+AI+Agents+%E2%9A%A1;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-2196F3?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-7F5AF0?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/ML%20Beginner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Agent%20Builder-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:030014&height=3&section=header"/>
 </div>
 
 ## 💫 About Me
@@ -39,6 +39,11 @@ Full-stack development, APIs, databases, project architecture, or getting starte
 I prefer building things that work over talking about things that might.
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=88&section=header&text=🌐%20Socials&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
 
 ## 🌐 Socials
 
@@ -50,10 +55,29 @@ I prefer building things that work over talking about things that might.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=88&section=header&text=🌍%20Portfolio&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
+
+## 🌍 Portfolio
+
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-domain.com)
+
+<sub>⚠️ placeholder link — swap in your actual portfolio URL</sub>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:030014&height=3&section=header"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=88&section=header&text=🎓%20Certifications&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
 
 ## 🎓 Certifications
 
@@ -85,10 +109,15 @@ Completed all three courses covering supervised learning (linear regression, log
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:030014&height=3&section=header"/>
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=88&section=header&text=💻%20Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
 
 ## 💻 Tech Stack
 
@@ -188,26 +217,56 @@ Completed all three courses covering supervised learning (linear regression, log
 
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:030014&height=3&section=header"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=88&section=header&text=🛰️%20Mission%20Control&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-## 📊 Profile Dashboard
 
-<img alt="profile dashboard — followers, stars, repos, commits, PRs, and issues as glowing medallions" src="./assets/dashboard.svg" width="100%"/>
+## 🛰️ Mission Control
 
-</div>
-
-<div align="center">
-
-### 🏙️ Contribution Skyline
-
-<img alt="isometric contribution skyline — each week of the year as a 3D building" src="./assets/skyline.svg" width="100%"/>
+<img alt="mission control — followers, stars, repos, commits, PRs, and issues as glowing medallions" src="./assets/dashboard.svg" width="100%"/>
 
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=60&section=header&text=🪐%20Cosmic%20Garden&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+
+### 🪐 Cosmic Garden
+
+<img alt="cosmic garden — bioluminescent stems that grow taller and brighter the more you shipped that day" src="./assets/garden.svg" width="100%"/>
+
+<sub>Each stem is a day from the last 60 — taller and brighter the more you shipped.</sub>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=60&section=header&text=🛰️%20Orbital%20Skyline&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+
+### 🛰️ Orbital Skyline
+
+<img alt="orbital skyline — each week of the year as a glowing space tower" src="./assets/skyline.svg" width="100%"/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F5AF0,100:030014&height=60&section=header&text=✦%20Language%20Constellation&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
 
 ### ✦ Language Constellation
 
@@ -218,7 +277,7 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D1117&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:030014&height=3&section=header"/>
 </div>
 
 <div align="center">
@@ -228,7 +287,7 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2196F3&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,100:7F5AF0&height=120&section=footer"/>
 </div>
 
 <div align="center">
