@@ -17,7 +17,7 @@
         <animateTransform attributeName="transform" type="rotate" from="0 150 115" to="360 150 115" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="150" y="121" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">51</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">53</text>
       <text x="150" y="183" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">FOLLOWERS</text>
     </g>
@@ -30,7 +30,7 @@
         <animateTransform attributeName="transform" type="rotate" from="0 450 115" to="360 450 115" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="450" y="121" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">19</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">20</text>
       <text x="450" y="183" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">STARS EARNED</text>
     </g>
