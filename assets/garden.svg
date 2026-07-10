@@ -172,21 +172,21 @@
     </g>
 <g transform="translate(128 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.2 0 0; 2.2 0 0; -2.2 0 0"
         dur="4.2s" begin="0.48s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-13.959183673469386" stroke="rgb(63,45,117)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-13.959183673469386" r="2.536734693877551" fill="rgb(63,45,117)">
+        <animate attributeName="r" values="2.536734693877551;3.2;2.536734693877551"
           dur="2.5s" begin="0.48s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(141 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.2 0 0; 2.2 0 0; -2.2 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="4.6s" begin="0.54s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-13.959183673469386" stroke="rgb(63,45,117)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-13.959183673469386" r="2.536734693877551" fill="rgb(63,45,117)">
-        <animate attributeName="r" values="2.536734693877551;3.2;2.536734693877551"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="2.8s" begin="0.54s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -212,31 +212,31 @@
     </g>
 <g transform="translate(180 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.5 0 0; 2.5 0 0; -2.5 0 0"
         dur="3.8s" begin="0.72s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-27.224489795918366" stroke="rgb(98,70,183)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-27.224489795918366" r="3.0979591836734697" fill="rgb(98,70,183)">
+        <animate attributeName="r" values="3.0979591836734697;3.9;3.0979591836734697"
           dur="2.5s" begin="0.72s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(193 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.5 0 0; 2.5 0 0; -2.5 0 0"
+        values="-2.2 0 0; 2.2 0 0; -2.2 0 0"
         dur="4.2s" begin="0.78s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-27.224489795918366" stroke="rgb(98,70,183)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-27.224489795918366" r="3.0979591836734697" fill="rgb(98,70,183)">
-        <animate attributeName="r" values="3.0979591836734697;3.9;3.0979591836734697"
+      <line x1="0" y1="0" x2="0" y2="-16.612244897959183" stroke="rgb(70,50,130)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-16.612244897959183" r="2.648979591836735" fill="rgb(70,50,130)">
+        <animate attributeName="r" values="2.648979591836735;3.3;2.648979591836735"
           dur="2.8s" begin="0.78s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(206 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.2 0 0; 2.2 0 0; -2.2 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="4.6s" begin="0.84s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-16.612244897959183" stroke="rgb(70,50,130)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-16.612244897959183" r="2.648979591836735" fill="rgb(70,50,130)">
-        <animate attributeName="r" values="2.648979591836735;3.3;2.648979591836735"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="3.1s" begin="0.84s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -272,41 +272,41 @@
     </g>
 <g transform="translate(258 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.7 0 0; 2.7 0 0; -2.7 0 0"
         dur="4.2s" begin="1.08s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-37.836734693877546" stroke="rgb(125,89,237)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-37.836734693877546" r="3.5469387755102044" fill="rgb(125,89,237)">
+        <animate attributeName="r" values="3.5469387755102044;4.4;3.5469387755102044"
           dur="3.1s" begin="1.08s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(271 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.7 0 0; 2.7 0 0; -2.7 0 0"
+        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
         dur="4.6s" begin="1.14s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-37.836734693877546" stroke="rgb(125,89,237)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-37.836734693877546" r="3.5469387755102044" fill="rgb(125,89,237)">
-        <animate attributeName="r" values="3.5469387755102044;4.4;3.5469387755102044"
+      <line x1="0" y1="0" x2="0" y2="-8.653061224489797" stroke="rgb(49,36,90)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-8.653061224489797" r="2.3122448979591836" fill="rgb(49,36,90)">
+        <animate attributeName="r" values="2.3122448979591836;2.9;2.3122448979591836"
           dur="3.4s" begin="1.14s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(284 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
+        values="-2.2 0 0; 2.2 0 0; -2.2 0 0"
         dur="3.0s" begin="1.20s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-8.653061224489797" stroke="rgb(49,36,90)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-8.653061224489797" r="2.3122448979591836" fill="rgb(49,36,90)">
-        <animate attributeName="r" values="2.3122448979591836;2.9;2.3122448979591836"
+      <line x1="0" y1="0" x2="0" y2="-13.959183673469386" stroke="rgb(63,45,117)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-13.959183673469386" r="2.536734693877551" fill="rgb(63,45,117)">
+        <animate attributeName="r" values="2.536734693877551;3.2;2.536734693877551"
           dur="2.5s" begin="1.20s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(297 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.2 0 0; 2.2 0 0; -2.2 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="3.4s" begin="1.26s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-13.959183673469386" stroke="rgb(63,45,117)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-13.959183673469386" r="2.536734693877551" fill="rgb(63,45,117)">
-        <animate attributeName="r" values="2.536734693877551;3.2;2.536734693877551"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="2.8s" begin="1.26s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -342,51 +342,51 @@
     </g>
 <g transform="translate(349 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.6 0 0; 2.6 0 0; -2.6 0 0"
         dur="3.0s" begin="1.50s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-29.877551020408166" stroke="rgb(104,74,197)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-29.877551020408166" r="3.2102040816326536" fill="rgb(104,74,197)">
+        <animate attributeName="r" values="3.2102040816326536;4.0;3.2102040816326536"
           dur="2.8s" begin="1.50s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(362 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.6 0 0; 2.6 0 0; -2.6 0 0"
+        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
         dur="3.4s" begin="1.56s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-29.877551020408166" stroke="rgb(104,74,197)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-29.877551020408166" r="3.2102040816326536" fill="rgb(104,74,197)">
-        <animate attributeName="r" values="3.2102040816326536;4.0;3.2102040816326536"
+      <line x1="0" y1="0" x2="0" y2="-11.306122448979592" stroke="rgb(56,41,104)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-11.306122448979592" r="2.4244897959183676" fill="rgb(56,41,104)">
+        <animate attributeName="r" values="2.4244897959183676;3.0;2.4244897959183676"
           dur="3.1s" begin="1.56s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(375 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
+        values="-2.6 0 0; 2.6 0 0; -2.6 0 0"
         dur="3.8s" begin="1.62s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-11.306122448979592" stroke="rgb(56,41,104)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-11.306122448979592" r="2.4244897959183676" fill="rgb(56,41,104)">
-        <animate attributeName="r" values="2.4244897959183676;3.0;2.4244897959183676"
+      <line x1="0" y1="0" x2="0" y2="-32.53061224489796" stroke="rgb(111,79,210)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-32.53061224489796" r="3.322448979591837" fill="rgb(111,79,210)">
+        <animate attributeName="r" values="3.322448979591837;4.2;3.322448979591837"
           dur="3.4s" begin="1.62s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(388 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.6 0 0; 2.6 0 0; -2.6 0 0"
+        values="-2.8 0 0; 2.8 0 0; -2.8 0 0"
         dur="4.2s" begin="1.68s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-32.53061224489796" stroke="rgb(111,79,210)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-32.53061224489796" r="3.322448979591837" fill="rgb(111,79,210)">
-        <animate attributeName="r" values="3.322448979591837;4.2;3.322448979591837"
+      <line x1="0" y1="0" x2="0" y2="-40.48979591836735" stroke="rgb(123,94,237)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-40.48979591836735" r="3.6591836734693883" fill="rgb(123,94,237)">
+        <animate attributeName="r" values="3.6591836734693883;4.6;3.6591836734693883"
           dur="2.5s" begin="1.68s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(401 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.8 0 0; 2.8 0 0; -2.8 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="4.6s" begin="1.74s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-40.48979591836735" stroke="rgb(123,94,237)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-40.48979591836735" r="3.6591836734693883" fill="rgb(123,94,237)">
-        <animate attributeName="r" values="3.6591836734693883;4.6;3.6591836734693883"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="2.8s" begin="1.74s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -402,71 +402,71 @@
     </g>
 <g transform="translate(427 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
         dur="3.4s" begin="1.86s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-11.306122448979592" stroke="rgb(56,41,104)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-11.306122448979592" r="2.4244897959183676" fill="rgb(56,41,104)">
+        <animate attributeName="r" values="2.4244897959183676;3.0;2.4244897959183676"
           dur="3.4s" begin="1.86s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(440 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="3.8s" begin="1.92s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-11.306122448979592" stroke="rgb(56,41,104)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-11.306122448979592" r="2.4244897959183676" fill="rgb(56,41,104)">
-        <animate attributeName="r" values="2.4244897959183676;3.0;2.4244897959183676"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="2.5s" begin="1.92s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(453 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
         dur="4.2s" begin="1.98s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-11.306122448979592" stroke="rgb(56,41,104)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-11.306122448979592" r="2.4244897959183676" fill="rgb(56,41,104)">
+        <animate attributeName="r" values="2.4244897959183676;3.0;2.4244897959183676"
           dur="2.8s" begin="1.98s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(466 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.1 0 0; 2.1 0 0; -2.1 0 0"
+        values="-5.0 0 0; 5.0 0 0; -5.0 0 0"
         dur="4.6s" begin="2.04s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-11.306122448979592" stroke="rgb(56,41,104)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-11.306122448979592" r="2.4244897959183676" fill="rgb(56,41,104)">
-        <animate attributeName="r" values="2.4244897959183676;3.0;2.4244897959183676"
+      <line x1="0" y1="0" x2="0" y2="-136" stroke="rgb(255,209,102)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-136" r="7.7" fill="rgb(255,209,102)">
+        <animate attributeName="r" values="7.7;9.6;7.7"
           dur="3.1s" begin="2.04s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(479 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-5.0 0 0; 5.0 0 0; -5.0 0 0"
+        values="-3.3 0 0; 3.3 0 0; -3.3 0 0"
         dur="3.0s" begin="2.10s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-136" stroke="rgb(255,209,102)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-136" r="7.7" fill="rgb(255,209,102)">
-        <animate attributeName="r" values="7.7;9.6;7.7"
+      <line x1="0" y1="0" x2="0" y2="-61.71428571428571" stroke="rgb(78,142,209)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-61.71428571428571" r="4.557142857142857" fill="rgb(78,142,209)">
+        <animate attributeName="r" values="4.557142857142857;5.7;4.557142857142857"
           dur="3.4s" begin="2.10s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(492 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.3 0 0; 3.3 0 0; -3.3 0 0"
+        values="-3.6 0 0; 3.6 0 0; -3.6 0 0"
         dur="3.4s" begin="2.16s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-61.71428571428571" stroke="rgb(78,142,209)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-61.71428571428571" r="4.557142857142857" fill="rgb(78,142,209)">
-        <animate attributeName="r" values="4.557142857142857;5.7;4.557142857142857"
+      <line x1="0" y1="0" x2="0" y2="-74.9795918367347" stroke="rgb(49,171,191)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-74.9795918367347" r="5.118367346938776" fill="rgb(49,171,191)">
+        <animate attributeName="r" values="5.118367346938776;6.4;5.118367346938776"
           dur="2.5s" begin="2.16s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(505 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.6 0 0; 3.6 0 0; -3.6 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="3.8s" begin="2.22s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-74.9795918367347" stroke="rgb(49,171,191)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-74.9795918367347" r="5.118367346938776" fill="rgb(49,171,191)">
-        <animate attributeName="r" values="5.118367346938776;6.4;5.118367346938776"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="2.8s" begin="2.22s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -492,31 +492,31 @@
     </g>
 <g transform="translate(544 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-3.7 0 0; 3.7 0 0; -3.7 0 0"
         dur="3.0s" begin="2.40s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-77.63265306122449" stroke="rgb(45,177,188)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-77.63265306122449" r="5.230612244897959" fill="rgb(45,177,188)">
+        <animate attributeName="r" values="5.230612244897959;6.5;5.230612244897959"
           dur="2.5s" begin="2.40s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(557 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.7 0 0; 3.7 0 0; -3.7 0 0"
+        values="-4.2 0 0; 4.2 0 0; -4.2 0 0"
         dur="3.4s" begin="2.46s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-77.63265306122449" stroke="rgb(45,177,188)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-77.63265306122449" r="5.230612244897959" fill="rgb(45,177,188)">
-        <animate attributeName="r" values="5.230612244897959;6.5;5.230612244897959"
+      <line x1="0" y1="0" x2="0" y2="-101.51020408163266" stroke="rgb(184,102,237)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-101.51020408163266" r="6.240816326530613" fill="rgb(184,102,237)">
+        <animate attributeName="r" values="6.240816326530613;7.8;6.240816326530613"
           dur="2.8s" begin="2.46s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(570 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-4.2 0 0; 4.2 0 0; -4.2 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="3.8s" begin="2.52s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-101.51020408163266" stroke="rgb(184,102,237)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-101.51020408163266" r="6.240816326530613" fill="rgb(184,102,237)">
-        <animate attributeName="r" values="6.240816326530613;7.8;6.240816326530613"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="3.1s" begin="2.52s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -532,21 +532,21 @@
     </g>
 <g transform="translate(596 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-2.8 0 0; 2.8 0 0; -2.8 0 0"
         dur="4.6s" begin="2.64s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-40.48979591836735" stroke="rgb(123,94,237)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-40.48979591836735" r="3.6591836734693883" fill="rgb(123,94,237)">
+        <animate attributeName="r" values="3.6591836734693883;4.6;3.6591836734693883"
           dur="2.5s" begin="2.64s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(609 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.8 0 0; 2.8 0 0; -2.8 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="3.0s" begin="2.70s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-40.48979591836735" stroke="rgb(123,94,237)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-40.48979591836735" r="3.6591836734693883" fill="rgb(123,94,237)">
-        <animate attributeName="r" values="3.6591836734693883;4.6;3.6591836734693883"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="2.8s" begin="2.70s" repeatCount="indefinite"/>
       </circle>
     </g>
@@ -582,101 +582,101 @@
     </g>
 <g transform="translate(661 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-3.1 0 0; 3.1 0 0; -3.1 0 0"
         dur="4.6s" begin="2.94s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-53.75510204081633" stroke="rgb(95,124,220)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-53.75510204081633" r="4.220408163265306" fill="rgb(95,124,220)">
+        <animate attributeName="r" values="4.220408163265306;5.3;4.220408163265306"
           dur="2.8s" begin="2.94s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(674 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.1 0 0; 3.1 0 0; -3.1 0 0"
+        values="-4.0 0 0; 4.0 0 0; -4.0 0 0"
         dur="3.0s" begin="3.00s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-53.75510204081633" stroke="rgb(95,124,220)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-53.75510204081633" r="4.220408163265306" fill="rgb(95,124,220)">
-        <animate attributeName="r" values="4.220408163265306;5.3;4.220408163265306"
+      <line x1="0" y1="0" x2="0" y2="-93.55102040816327" stroke="rgb(137,127,221)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-93.55102040816327" r="5.904081632653061" fill="rgb(137,127,221)">
+        <animate attributeName="r" values="5.904081632653061;7.4;5.904081632653061"
           dur="3.1s" begin="3.00s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(687 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-4.0 0 0; 4.0 0 0; -4.0 0 0"
+        values="-2.3 0 0; 2.3 0 0; -2.3 0 0"
         dur="3.4s" begin="3.06s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-93.55102040816327" stroke="rgb(137,127,221)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-93.55102040816327" r="5.904081632653061" fill="rgb(137,127,221)">
-        <animate attributeName="r" values="5.904081632653061;7.4;5.904081632653061"
+      <line x1="0" y1="0" x2="0" y2="-19.26530612244898" stroke="rgb(77,55,144)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-19.26530612244898" r="2.761224489795919" fill="rgb(77,55,144)">
+        <animate attributeName="r" values="2.761224489795919;3.5;2.761224489795919"
           dur="3.4s" begin="3.06s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(700 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.3 0 0; 2.3 0 0; -2.3 0 0"
+        values="-3.0 0 0; 3.0 0 0; -3.0 0 0"
         dur="3.8s" begin="3.12s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-19.26530612244898" stroke="rgb(77,55,144)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-19.26530612244898" r="2.761224489795919" fill="rgb(77,55,144)">
-        <animate attributeName="r" values="2.761224489795919;3.5;2.761224489795919"
+      <line x1="0" y1="0" x2="0" y2="-48.44897959183673" stroke="rgb(106,112,227)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-48.44897959183673" r="3.9959183673469387" fill="rgb(106,112,227)">
+        <animate attributeName="r" values="3.9959183673469387;5.0;3.9959183673469387"
           dur="2.5s" begin="3.12s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(713 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.0 0 0; 3.0 0 0; -3.0 0 0"
+        values="-2.3 0 0; 2.3 0 0; -2.3 0 0"
         dur="4.2s" begin="3.18s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-48.44897959183673" stroke="rgb(106,112,227)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-48.44897959183673" r="3.9959183673469387" fill="rgb(106,112,227)">
-        <animate attributeName="r" values="3.9959183673469387;5.0;3.9959183673469387"
+      <line x1="0" y1="0" x2="0" y2="-19.26530612244898" stroke="rgb(77,55,144)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-19.26530612244898" r="2.761224489795919" fill="rgb(77,55,144)">
+        <animate attributeName="r" values="2.761224489795919;3.5;2.761224489795919"
           dur="2.8s" begin="3.18s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(726 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.3 0 0; 2.3 0 0; -2.3 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="4.6s" begin="3.24s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-19.26530612244898" stroke="rgb(77,55,144)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-19.26530612244898" r="2.761224489795919" fill="rgb(77,55,144)">
-        <animate attributeName="r" values="2.761224489795919;3.5;2.761224489795919"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="3.1s" begin="3.24s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(739 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
+        values="-3.5 0 0; 3.5 0 0; -3.5 0 0"
         dur="3.0s" begin="3.30s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
-        <animate attributeName="r" values="2.2;2.8;2.2"
+      <line x1="0" y1="0" x2="0" y2="-69.67346938775509" stroke="rgb(61,160,198)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-69.67346938775509" r="4.893877551020408" fill="rgb(61,160,198)">
+        <animate attributeName="r" values="4.893877551020408;6.1;4.893877551020408"
           dur="3.4s" begin="3.30s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(752 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.5 0 0; 3.5 0 0; -3.5 0 0"
+        values="-4.9 0 0; 4.9 0 0; -4.9 0 0"
         dur="3.4s" begin="3.36s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-69.67346938775509" stroke="rgb(61,160,198)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-69.67346938775509" r="4.893877551020408" fill="rgb(61,160,198)">
-        <animate attributeName="r" values="4.893877551020408;6.1;4.893877551020408"
+      <line x1="0" y1="0" x2="0" y2="-130.69387755102042" stroke="rgb(251,182,133)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-130.69387755102042" r="7.475510204081632" fill="rgb(251,182,133)">
+        <animate attributeName="r" values="7.475510204081632;9.3;7.475510204081632"
           dur="2.5s" begin="3.36s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(765 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-4.9 0 0; 4.9 0 0; -4.9 0 0"
+        values="-3.1 0 0; 3.1 0 0; -3.1 0 0"
         dur="3.8s" begin="3.42s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-130.69387755102042" stroke="rgb(251,182,133)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-130.69387755102042" r="7.475510204081632" fill="rgb(251,182,133)">
-        <animate attributeName="r" values="7.475510204081632;9.3;7.475510204081632"
+      <line x1="0" y1="0" x2="0" y2="-53.75510204081633" stroke="rgb(95,124,220)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-53.75510204081633" r="4.220408163265306" fill="rgb(95,124,220)">
+        <animate attributeName="r" values="4.220408163265306;5.3;4.220408163265306"
           dur="2.8s" begin="3.42s" repeatCount="indefinite"/>
       </circle>
     </g>
 <g transform="translate(778 186)">
       <animateTransform attributeName="transform" type="rotate"
-        values="-3.1 0 0; 3.1 0 0; -3.1 0 0"
+        values="-2.0 0 0; 2.0 0 0; -2.0 0 0"
         dur="4.2s" begin="3.48s" repeatCount="indefinite" additive="sum"/>
-      <line x1="0" y1="0" x2="0" y2="-53.75510204081633" stroke="rgb(95,124,220)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="0" cy="-53.75510204081633" r="4.220408163265306" fill="rgb(95,124,220)">
-        <animate attributeName="r" values="4.220408163265306;5.3;4.220408163265306"
+      <line x1="0" y1="0" x2="0" y2="-6" stroke="rgb(42,31,77)" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="0" cy="-6" r="2.2" fill="rgb(42,31,77)">
+        <animate attributeName="r" values="2.2;2.8;2.2"
           dur="3.1s" begin="3.48s" repeatCount="indefinite"/>
       </circle>
     </g>
