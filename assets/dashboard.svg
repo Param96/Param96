@@ -17,7 +17,7 @@
         <animateTransform attributeName="transform" type="rotate" from="0 150 115" to="360 150 115" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="150" y="121" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">42</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">41</text>
       <text x="150" y="183" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">FOLLOWERS</text>
     </g>
@@ -56,7 +56,7 @@
         <animateTransform attributeName="transform" type="rotate" from="0 150 225" to="360 150 225" dur="18s" repeatCount="indefinite"/>
       </circle>
       <text x="150" y="231" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="22" font-weight="700" fill="#E6EDF3">593</text>
+        font-size="22" font-weight="700" fill="#E6EDF3">594</text>
       <text x="150" y="293" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#7d8590" letter-spacing="0.5">COMMITS (YR)</text>
     </g>
