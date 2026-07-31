@@ -155,30 +155,30 @@
 <line x1="576.6666666666666" y1="168.03847577293368" x2="703.3333333333334" y2="200" stroke="#2CB1BC" stroke-width="1" opacity="0.35"/>
 <line x1="703.3333333333334" y1="200" x2="830" y2="240" stroke="#2CB1BC" stroke-width="1" opacity="0.35"/>
   <g>
-      <circle cx="70" cy="180" r="66.9" fill="#3178c6" opacity="0.15"/>
-      <circle cx="70" cy="180" r="37.1" fill="#3178c6">
-        <animate attributeName="r" values="37.1;43.8;37.1"
+      <circle cx="70" cy="180" r="66.5" fill="#3178c6" opacity="0.15"/>
+      <circle cx="70" cy="180" r="36.9" fill="#3178c6">
+        <animate attributeName="r" values="36.9;43.6;36.9"
           dur="3s" begin="0.00s" repeatCount="indefinite"/>
       </circle>
-      <text x="70" y="235.1472344511135" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="12" fill="#c9d1d9">TypeScript · 72.1%</text>
+      <text x="70" y="234.93249234692635" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="12" fill="#c9d1d9">TypeScript · 71.6%</text>
     </g>
 <g>
-      <circle cx="196.66666666666666" cy="160" r="23.7" fill="#3572A5" opacity="0.15"/>
-      <circle cx="196.66666666666666" cy="160" r="13.2" fill="#3572A5">
-        <animate attributeName="r" values="13.2;15.5;13.2"
+      <circle cx="196.66666666666666" cy="160" r="24.1" fill="#3572A5" opacity="0.15"/>
+      <circle cx="196.66666666666666" cy="160" r="13.4" fill="#3572A5">
+        <animate attributeName="r" values="13.4;15.8;13.4"
           dur="3s" begin="0.40s" repeatCount="indefinite"/>
       </circle>
-      <text x="196.66666666666666" y="191.15784332043614" text-anchor="middle" font-family="Fira Code, monospace"
-        font-size="12" fill="#c9d1d9">Python · 19.9%</text>
+      <text x="196.66666666666666" y="191.3965227270041" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="12" fill="#c9d1d9">Python · 20.4%</text>
     </g>
 <g>
-      <circle cx="323.3333333333333" cy="148.03847577293368" r="12.4" fill="#f1e05a" opacity="0.15"/>
-      <circle cx="323.3333333333333" cy="148.03847577293368" r="6.9" fill="#f1e05a">
-        <animate attributeName="r" values="6.9;8.1;6.9"
+      <circle cx="323.3333333333333" cy="148.03847577293368" r="12.3" fill="#f1e05a" opacity="0.15"/>
+      <circle cx="323.3333333333333" cy="148.03847577293368" r="6.8" fill="#f1e05a">
+        <animate attributeName="r" values="6.8;8.1;6.8"
           dur="3s" begin="0.80s" repeatCount="indefinite"/>
       </circle>
-      <text x="323.3333333333333" y="172.9052008023775" text-anchor="middle" font-family="Fira Code, monospace"
+      <text x="323.3333333333333" y="172.8866289192282" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#c9d1d9">JavaScript · 6.2%</text>
     </g>
 <g>
@@ -187,7 +187,7 @@
         <animate attributeName="r" values="4.7;5.5;4.7"
           dur="3s" begin="1.20s" repeatCount="indefinite"/>
       </circle>
-      <text x="450" y="172.65848887993153" text-anchor="middle" font-family="Fira Code, monospace"
+      <text x="450" y="172.65422290450397" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#c9d1d9">CSS · 1.4%</text>
     </g>
 <g>
@@ -196,7 +196,7 @@
         <animate attributeName="r" values="4.1;4.9;4.1"
           dur="3s" begin="1.60s" repeatCount="indefinite"/>
       </circle>
-      <text x="576.6666666666666" y="190.1552950995504" text-anchor="middle" font-family="Fira Code, monospace"
+      <text x="576.6666666666666" y="190.1545382934873" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#c9d1d9">Shell · 0.3%</text>
     </g>
 <g>
@@ -205,7 +205,7 @@
         <animate attributeName="r" values="4.0;4.8;4.0"
           dur="3s" begin="2.00s" repeatCount="indefinite"/>
       </circle>
-      <text x="703.3333333333334" y="222.04130041224835" text-anchor="middle" font-family="Fira Code, monospace"
+      <text x="703.3333333333334" y="222.04103285033625" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#c9d1d9">Dockerfile · 0.1%</text>
     </g>
 <g>
@@ -214,7 +214,7 @@
         <animate attributeName="r" values="4.0;4.7;4.0"
           dur="3s" begin="2.40s" repeatCount="indefinite"/>
       </circle>
-      <text x="830" y="262.01158858020995" text-anchor="middle" font-family="Fira Code, monospace"
+      <text x="830" y="262.0115135043812" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="12" fill="#c9d1d9">HTML · 0.0%</text>
     </g>
 
