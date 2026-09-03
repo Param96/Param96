@@ -282,12 +282,21 @@ Completed all three courses covering supervised learning (linear regression, log
 </div>
 
 <!-- DAILY-BOT:START -->
+<div align="center">
+
 ### 🤖 Daily Maintenance Stats
-- **Last Run:** 2026-09-02
-- **Total Repos Maintained:** 0
-- **Today's Fixes:** 2
-- **Average Health Score:** 🔴 0/100
+
+<p>
+  <img src="https://img.shields.io/badge/Last%20Run-2026--09--03-blue" alt="Last Run" />
+  <img src="https://img.shields.io/badge/Repos%20Maintained-0-brightgreen" alt="Repos Maintained" />
+  <img src="https://img.shields.io/badge/Fixes%20Today-2-orange" alt="Fixes" />
+  <img src="https://img.shields.io/badge/Health-0%2F100-red" alt="Health" />
+</p>
 
 #### Top Repositories
-No repository stats available.
+*> No repository stats available yet.*
+
+<sub>*Automated by [daily-bot](https://github.com/Param96/daily-bot)*</sub>
+
+</div>
 <!-- DAILY-BOT:END -->
