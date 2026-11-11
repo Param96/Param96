@@ -298,7 +298,7 @@ Completed all three courses covering supervised learning (linear regression, log
 | :--- | :--- | :--- | :--- | :--- |
 | [Jarvis](https://github.com/Param96/Jarvis) | 3 | 0 | 0 | 🟡 ████████░░ 80 |
 | [AI-Verification-Agent](https://github.com/Param96/AI-Verification-Agent) | 2 | 0 | 0 | 🟡 ████████░░ 80 |
-| [param-portfolio-2026](https://github.com/Param96/param-portfolio-2026) | 2 | 0 | 21 | 🟡 ███████░░░ 75 |
+| [param-portfolio-2026](https://github.com/Param96/param-portfolio-2026) | 2 | 0 | 22 | 🟡 ███████░░░ 75 |
 | [daily-bot](https://github.com/Param96/daily-bot) | 1 | 0 | 0 | 🟡 ████████░░ 80 |
 | [Param96](https://github.com/Param96/Param96) | 1 | 0 | 0 | 🟡 ███████░░░ 75 |
 
