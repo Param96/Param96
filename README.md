@@ -287,7 +287,7 @@ Completed all three courses covering supervised learning (linear regression, log
 ### 🤖 Daily Maintenance Stats
 
 <p>
-  <img src="https://img.shields.io/badge/Last%20Run-2026--11--27-blue" alt="Last Run" />
+  <img src="https://img.shields.io/badge/Last%20Run-2026--11--28-blue" alt="Last Run" />
   <img src="https://img.shields.io/badge/Repos%20Maintained-0-brightgreen" alt="Repos Maintained" />
   <img src="https://img.shields.io/badge/Fixes%20Today-0-orange" alt="Fixes" />
   <img src="https://img.shields.io/badge/Health-77%2F100-yellow" alt="Health" />
@@ -300,7 +300,7 @@ Completed all three courses covering supervised learning (linear regression, log
 | [AI-Verification-Agent](https://github.com/Param96/AI-Verification-Agent) | 2 | 0 | 0 | 🟡 ████████░░ 80 |
 | [daily-bot](https://github.com/Param96/daily-bot) | 1 | 0 | 0 | 🟡 ████████░░ 80 |
 | [learning](https://github.com/Param96/learning) | 0 | 0 | 0 | 🟡 ███████░░░ 75 |
-| [LogisticsShippingRates](https://github.com/Param96/LogisticsShippingRates) | 0 | 0 | 0 | 🟡 ████████░░ 80 |
+| [learning-agent](https://github.com/Param96/learning-agent) | 0 | 0 | 0 | 🟡 ███████░░░ 75 |
 
 #### 🌐 Top Languages
 <p>
